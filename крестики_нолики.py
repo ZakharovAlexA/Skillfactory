@@ -46,7 +46,7 @@ def check_winner(board, w_var):
         t.clear()
 
 
-# Спрашивае о повторе игры.
+# Спрашиваем о повторе игры.
 def restart_game():
     global kr_nol
     global n_gamer
